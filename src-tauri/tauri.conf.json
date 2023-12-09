@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "kanban-rs",
+    "productName": "todo-tauri-rs",
     "version": "0.0.0"
   },
   "tauri": {
@@ -36,7 +36,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "kanban-rs",
+        "title": "todo-tauri-rs",
         "width": 800,
         "height": 600
       }

@@ -1,5 +1,5 @@
 [package]
-name = "kanban-rs"
+name = "todo-tauri-rs"
 version = "0.0.0"
 description = "A Tauri App"
 authors = ["you"]
